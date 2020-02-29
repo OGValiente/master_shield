@@ -1,0 +1,1 @@
+Master Shield is a game where you control a knight who only has a shield to defend himself. Enemies shoot projectiles and you need to either block them or parry them back towards enemies to kill them.
